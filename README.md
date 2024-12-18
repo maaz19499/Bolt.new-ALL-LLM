@@ -1,6 +1,10 @@
-Sorry people this is the wrong fork for the bolt.new fork - go here to clone the repo. 
-👇 ------------------------------👇
+## Sorry people this is the wrong fork for the bolt.new fork - go here to clone the repo template.  
+👇 ------------------------------👇  
 https://github.com/stackblitz-labs/bolt.diy
+
+or go to
+
+https://bolt.diy
 
 # Bolt.new Fork by Cole Medin
 
