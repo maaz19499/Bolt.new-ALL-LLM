@@ -1,4 +1,6 @@
-[![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
+Sorry people this is the wrong fork for the bolt.new fork - go here to clone the repo. 
+👇 ------------------------------👇
+https://github.com/stackblitz-labs/bolt.diy
 
 # Bolt.new Fork by Cole Medin
 
