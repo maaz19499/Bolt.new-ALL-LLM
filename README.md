@@ -1,11 +1,3 @@
-## Sorry people this is the wrong fork for the bolt.new fork - go here to clone the repo template.  
-👇 ------------------------------👇  
-https://github.com/stackblitz-labs/bolt.diy
-
-or go to
-
-https://bolt.diy
-
 # Bolt.new Fork by Cole Medin
 
 This fork of Bolt.new allows you to choose the LLM that you use for each prompt! Currently, you can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, or Groq models - and it is easily extended to use any other model supported by the Vercel AI SDK! See the instructions below for running this locally and extending it to include more models.
